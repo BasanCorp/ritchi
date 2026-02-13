@@ -1,0 +1,180 @@
+{
+  "hero": {
+    "badge": "Used by {count} traders in {region}",
+    "title": "Trading Indicators That Learn Your Style",
+    "subtitle": "Stop forcing your strategy into rigid indicators. Get AI-personalized parameters that adapt to YOUR risk profile, timeframe, and trading goals.",
+    "cta": "Start Free",
+    "ctaSecondary": "Watch Demo",
+    "noCard": "No credit card required",
+    "features": {
+      "winRate": "avg. win rate",
+      "compliance": "MAS & VARA compliant",
+      "signals": "Signals today"
+    }
+  },
+  
+  "demo": {
+    "badge": "No Signup Required",
+    "title": "See Your Indicators",
+    "titleHighlight": "In Action",
+    "subtitle": "Choose your trading style and watch how Ritchi adapts the parameters in real-time.",
+    "step1": "Pick Your Style",
+    "step2": "Watch Ritchi Adapt",
+    "styles": {
+      "scalping": {
+        "name": "Scalping",
+        "emoji": "⚡",
+        "description": "Quick 5-15min trades"
+      },
+      "swing": {
+        "name": "Swing Trading",
+        "emoji": "📊",
+        "description": "Multi-day positions"
+      },
+      "longterm": {
+        "name": "Long-term",
+        "emoji": "📈",
+        "description": "Weeks to months"
+      }
+    },
+    "params": {
+      "sensitivity": "Sensitivity",
+      "winRate": "Win Rate",
+      "stopLoss": "Stop Loss"
+    },
+    "cta": "Run Demo Backtest",
+    "ctaRunning": "Generating Signals...",
+    "ctaResult": "Get Full Access",
+    "disclaimer": "This demo uses historical BTC data. Actual signals vary based on market conditions.",
+    "luxalgoCompare": "LuxAlgo Can't Do This",
+    "luxalgoDesc": "Their indicators are one-size-fits-all. Ours adapt to YOU. Same quality, 60% cheaper."
+  },
+  
+  "pricing": {
+    "badge": "Save $840/year vs LuxAlgo",
+    "title": "Professional Tools,",
+    "titleHighlight": "Not Professional Prices",
+    "subtitle": "Get LuxAlgo-quality indicators with AI personalization for 60% less",
+    "billing": {
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "yearlyBadge": "Save 20%"
+    },
+    "tiers": {
+      "lib30": {
+        "name": "Lib30",
+        "price": "$9.9",
+        "priceYearly": "$99",
+        "period": "month",
+        "periodYearly": "year",
+        "description": "For active altcoin traders",
+        "cta": "Start Free Trial",
+        "features": [
+          "30 altcoin indicators",
+          "Basic personalization",
+          "Email alerts",
+          "Community access",
+          "Mobile app"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "badge": "⭐ MOST POPULAR",
+        "price": "$49",
+        "priceYearly": "$490",
+        "period": "month",
+        "savings": "Save $98 annually",
+        "vsLuxAlgo": "vs LuxAlgo Premium: $120/mo",
+        "description": "For serious traders",
+        "cta": "Start Free Trial",
+        "bonus": "🎁 First 100 users get Lib30 included forever",
+        "features": [
+          "Everything in Lib30",
+          "50+ premium indicators",
+          "AI personalization engine",
+          "Auto parameter tuning",
+          "8 trading style profiles",
+          "Exchange API integration",
+          "Advanced backtesting",
+          "Priority support",
+          "Early access to features"
+        ]
+      },
+      "elite": {
+        "name": "Elite",
+        "price": "$99",
+        "priceYearly": "$990",
+        "period": "month",
+        "description": "For institutions & HNW",
+        "cta": "Contact Sales",
+        "features": [
+          "Everything in Pro",
+          "1-on-1 strategy consultation",
+          "Custom indicator development",
+          "Dedicated account manager",
+          "White-label options",
+          "API access",
+          "Team accounts (up to 5)",
+          "Institutional support"
+        ]
+      }
+    },
+    "comparison": {
+      "title": "Why Choose Ritchi Over LuxAlgo?",
+      "ritchi": "Ritchi Pro",
+      "luxalgo": "LuxAlgo Premium",
+      "features": {
+        "indicators": "Pre-built Indicators",
+        "personalization": "AI Personalization",
+        "autoTuning": "Auto Parameter Tuning",
+        "profiles": "Trading Style Profiles",
+        "exchange": "Exchange Integration",
+        "regional": "Regional Optimization",
+        "backtest": "Backtesting",
+        "price": "Monthly Price"
+      }
+    },
+    "finalCta": {
+      "amount": "$840",
+      "text": "Saved annually vs LuxAlgo Ultimate",
+      "button": "Claim Your Savings"
+    }
+  },
+  
+  "social": {
+    "testimonials": {
+      "title": "What Traders Say"
+    }
+  },
+  
+  "faq": {
+    "title": "Frequently Asked Questions"
+  },
+  
+  "footer": {
+    "tagline": "AI-powered trading indicators for the modern trader",
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "company": "Company",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "compliance": "Compliance",
+    "rights": "All rights reserved"
+  },
+  
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dashboard": "Dashboard",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!"
+  }
+}

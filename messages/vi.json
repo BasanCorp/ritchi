@@ -1,0 +1,181 @@
+{
+  "hero": {
+    "badge": "Được {count} trader tại {region} sử dụng",
+    "title": "Chỉ Báo Trading Học Theo Phong Cách Của Bạn",
+    "subtitle": "Ngừng ép chiến lược vào chỉ báo cứng nhắc. Nhận thông số cá nhân hóa bằng AI phù hợp với hồ sơ rủi ro, khung thời gian và mục tiêu giao dịch của BẠN.",
+    "cta": "Dùng Thử Miễn Phí",
+    "ctaSecondary": "Xem Demo",
+    "noCard": "Không cần thẻ tín dụng",
+    "features": {
+      "winRate": "tỷ lệ thắng TB",
+      "compliance": "Hợp pháp tại VN",
+      "signals": "Tín hiệu hôm nay"
+    }
+  },
+  
+  "demo": {
+    "badge": "Không Cần Đăng Ký",
+    "title": "Xem Chỉ Báo Của Bạn",
+    "titleHighlight": "Hoạt Động Thực Tế",
+    "subtitle": "Chọn phong cách giao dịch và xem Ritchi tự động điều chỉnh thông số theo thời gian thực.",
+    "step1": "Chọn Phong Cách",
+    "step2": "Xem Ritchi Điều Chỉnh",
+    "styles": {
+      "scalping": {
+        "name": "Scalping",
+        "emoji": "⚡",
+        "description": "Giao dịch nhanh 5-15 phút"
+      },
+      "swing": {
+        "name": "Swing Trading",
+        "emoji": "📊",
+        "description": "Giữ vài ngày"
+      },
+      "longterm": {
+        "name": "Dài hạn",
+        "emoji": "📈",
+        "description": "Tuần đến tháng"
+      }
+    },
+    "params": {
+      "sensitivity": "Độ nhạy",
+      "winRate": "Tỷ lệ thắng",
+      "stopLoss": "Cắt lỗ"
+    },
+    "cta": "Chạy Demo Backtest",
+    "ctaRunning": "Đang tạo tín hiệu...",
+    "ctaResult": "Mở Khóa Toàn Bộ",
+    "disclaimer": "Demo này dùng dữ liệu BTC lịch sử. Tín hiệu thực tế thay đổi theo điều kiện thị trường.",
+    "luxalgoCompare": "LuxAlgo Không Làm Được Điều Này",
+    "luxalgoDesc": "Chỉ báo của họ là one-size-fits-all. Của chúng tôi tùy biến theo BẠN. Cùng chất lượng, rẻ hơn 60%."
+  },
+  
+  "pricing": {
+    "badge": "Tiết kiệm 20 triệu/năm so với LuxAlgo",
+    "title": "Công Cụ Chuyên Nghiệp,",
+    "titleHighlight": "Giá Không Chuyên Nghiệp",
+    "subtitle": "Chất lượng LuxAlgo với AI cá nhân hóa, rẻ hơn 60%",
+    "billing": {
+      "monthly": "Theo tháng",
+      "yearly": "Theo năm",
+      "yearlyBadge": "Tiết kiệm 20%"
+    },
+    "tiers": {
+      "lib30": {
+        "name": "Lib30",
+        "price": "240,000đ",
+        "priceYearly": "2,400,000đ",
+        "period": "tháng",
+        "periodYearly": "năm",
+        "description": "Cho trader altcoin tích cực",
+        "cta": "Dùng Thử Miễn Phí",
+        "features": [
+          "30 chỉ báo altcoin",
+          "Cá nhân hóa cơ bản",
+          "Cảnh báo qua email",
+          "Truy cập cộng đồng",
+          "App mobile"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "badge": "⭐ PHỔ BIẾN NHẤT",
+        "price": "990,000đ",
+        "priceYearly": "9,900,000đ",
+        "period": "tháng",
+        "savings": "Tiết kiệm 2,400,000đ/năm",
+        "vsLuxAlgo": "So với LuxAlgo: 2,880,000đ/tháng",
+        "description": "Cho trader nghiêm túc",
+        "cta": "Dùng Thử Miễn Phí",
+        "bonus": "🎁 100 người đầu được tặng Lib30 vĩnh viễn",
+        "features": [
+          "Toàn bộ tính năng Lib30",
+          "50+ chỉ báo premium",
+          "AI cá nhân hóa",
+          "Tự động tối ưu thông số",
+          "8 hồ sơ phong cách trading",
+          "Tích hợp sàn giao dịch",
+          "Backtest nâng cao",
+          "Hỗ trợ ưu tiên",
+          "Truy cập tính năng mới sớm"
+        ]
+      },
+      "elite": {
+        "name": "Elite",
+        "price": "1,990,000đ",
+        "priceYearly": "19,900,000đ",
+        "period": "tháng",
+        "description": "Cho tổ chức & HNW",
+        "cta": "Liên Hệ Sales",
+        "features": [
+          "Toàn bộ tính năng Pro",
+          "Tư vấn chiến lược 1-1",
+          "Phát triển chỉ báo riêng",
+          "Quản lý tài khoản chuyên biệt",
+          "Tùy chọn white-label",
+          "Truy cập API",
+          "Tài khoản nhóm (tối đa 5)",
+          "Hỗ trợ doanh nghiệp"
+        ]
+      }
+    },
+    "comparison": {
+      "title": "Tại Sao Chọn Ritchi Thay Vì LuxAlgo?",
+      "ritchi": "Ritchi Pro",
+      "luxalgo": "LuxAlgo Premium"
+    },
+    "finalCta": {
+      "amount": "20 triệu",
+      "text": "Tiết kiệm mỗi năm so với LuxAlgo Ultimate",
+      "button": "Nhận Ưu Đãi Ngay"
+    }
+  },
+  
+  "social": {
+    "testimonials": {
+      "title": "Trader Nói Gì Về Ritchi"
+    }
+  },
+  
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp"
+  },
+  
+  "footer": {
+    "tagline": "Chỉ báo trading AI cho trader hiện đại",
+    "product": "Sản phẩm",
+    "features": "Tính năng",
+    "pricing": "Bảng giá",
+    "company": "Công ty",
+    "about": "Về chúng tôi",
+    "blog": "Blog",
+    "careers": "Tuyển dụng",
+    "legal": "Pháp lý",
+    "privacy": "Bảo mật",
+    "terms": "Điều khoản",
+    "compliance": "Tuân thủ",
+    "rights": "Bản quyền thuộc về"
+  },
+  
+  "common": {
+    "learnMore": "Tìm hiểu thêm",
+    "getStarted": "Bắt đầu",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "dashboard": "Dashboard",
+    "loading": "Đang tải...",
+    "error": "Có lỗi xảy ra",
+    "success": "Thành công!"
+  },
+  
+  "regional": {
+    "vietnam": {
+      "communityBadge": "🇻🇳 Cộng đồng 5,000+ trader Việt",
+      "specialPrice": "🎉 Giá đặc biệt cho Việt Nam",
+      "mobileOptimized": "Tối ưu cho mobile",
+      "mobileDesc": "Trade mọi lúc, mọi nơi",
+      "payment": "Thanh toán dễ dàng:",
+      "telegramCta": "Tham gia Telegram VN"
+    }
+  }
+}
